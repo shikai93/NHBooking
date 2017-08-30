@@ -1,0 +1,28 @@
+.dayHeading {
+  width: 100%;
+  background-color: #d1d3d6;
+}
+
+.maxWidth {
+  width: 100%;
+}
+
+.bookingTable {
+}
+
+.coloumn7 {
+  width: 14%;
+  text-align: center;
+  border: solid;
+  border-width: 2px;
+  border-color: black;
+}
+
+.red {
+  background-color: red;
+  height: 50px;
+}
+
+.pointer {
+  cursor: pointer;
+}
